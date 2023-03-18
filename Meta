@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+    <name>3DS Emulator</name>
+    <coder>Dariodraki12</coder>
+	<url>https://github.com/Dariodraki12/Dariodraki12</url>
+    <version>1.0-r10</version>
+    <release_date>18032023</release_date>
+    <short_description>Play custom Splatfests</short_description>
+	<long_description>This is an Nintendo 3DS Emulator it reads the sd cad and looks for 3ds files. NOTE: THIS IS AN TEST VERSION.
+</long_description>
+	<category>Emulator</category>
+</app>
